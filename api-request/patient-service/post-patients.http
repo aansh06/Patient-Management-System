@@ -1,0 +1,14 @@
+### Creates a new patient entity
+POST http://.elb.localhost.localstack.cloud:4004/api/patients
+Content-Type: application/json
+Authorization: Bearer {{token}}
+
+{
+  "name": "",
+  "email": "",
+  "address": "",
+  "dateOfBirth": "",
+  "registeredDate": ""
+}
+
+###
