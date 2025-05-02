@@ -7,21 +7,21 @@ A scalable, cloud-ready microservices architecture for managing patient records,
 
 ## 📚 Table of Contents
 
-* [Features](#features)
-* [Architecture](#architecture)
-* [Tech Stack](#tech-stack)
-* [Project Structure](#project-structure)
-* [Environment Variables](#environment-variables)
-* [Getting Started](#getting-started)
-* [API Endpoints](#api-endpoints)
+* [Features](#-features)
+* [Architecture](#%EF%B8%8F-architecture)
+* [Tech Stack](#%EF%B8%8F-tech-stack)
+* [Project Structure](#-project-structure)
+* [Environment Variables](#-environment-variables)
+* [Getting Started](#-getting-started)
+* [API Endpoints](#-api-endpoints)
 
   * [Auth-Service](#auth-service)
   * [Patient-Service](#patient-service)
-* [Inter-Service Communication](#inter-service-communication)
-* [Deployment](#deployment)
-* [Testing](#testing)
-* [Contributing](#contributing)
-* [License](#license)
+* [Inter-Service Communication](#-inter-service-communication)
+* [Deployment](#%EF%B8%8F-deployment)
+* [Testing](#-testing)
+* [Contributing](#-contributing)
+* [License](#-license)
 
 ---
 
